@@ -1,0 +1,5 @@
+.streamlit/secrets.toml
+__pycache__
+
+investment.txt
+latest_news.md
